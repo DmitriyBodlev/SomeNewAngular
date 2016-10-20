@@ -1,0 +1,16 @@
+.idea
+.vscode
+node_modules
+typings
+
+app/**/*.js
+**/*.map
+tests/**/*.js
+
+*.js
+*.log
+
+!karma*.js
+!config*.js
+
+.DS_Store
